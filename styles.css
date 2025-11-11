@@ -1,0 +1,7 @@
+body {
+	margin: 0;
+	background-color: #2C3539; /* Gunmetal - Dark gray-blue tone, adds depth without harsh contrast. */
+	/*background-color: #1E272E; !* Dark Slate - Cool dark slate with a calm, modern feel. *!*/
+	/*background-color: #232323; !* Charcoal - Deep neutral black-gray, ideal for general dark mode backgrounds. *!*/
+	/*background-color: #1E1E1E; !* used in VS Code’s dark theme (perfect neutral). *!*/
+}
